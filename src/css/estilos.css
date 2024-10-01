@@ -9,7 +9,7 @@ body {
     max-width: 1120px;
     background: linear-gradient(150deg, #000000, #9e00ff);
     background-size: 120% 120%;
-   
+
 }
 
 .cabecalho {
@@ -30,6 +30,9 @@ body {
     font-family: "Raleway" sans-serif;
     transition: 0.2s;
 }
+
+
+
 
 .cabecalho a:hover .logo {
     color: #9443d8;
@@ -122,7 +125,7 @@ body {
 }
 
 .projetos {
-    padding: 70px 0 70px;
+    padding: 50px 0 50px;
 
 }
 
